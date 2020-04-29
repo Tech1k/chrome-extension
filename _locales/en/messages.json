@@ -1,0 +1,10 @@
+{
+    "name" : {
+        "message" : "BeyondSearch for Chrome",
+        "description" : "Extension name"
+    },
+    "description" :  {
+        "message" : "BeyondSearch for Chrome sets BYNDSearch.com as your default search engine and homepage.",
+        "description" : "Extension description"
+    }
+}

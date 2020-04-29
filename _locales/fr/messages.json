@@ -1,0 +1,10 @@
+{
+    "name" : {
+        "message" : "BeyondSearch pour Chrome",
+        "description" : "Nom de l'extension"
+    },
+    "description" :  {
+        "message" : "BeyondSearch pour Chrome définit BYNDSearch.com comme votre moteur de recherche et page d'accueil par défaut.",
+        "description" : "Description de l'extension"
+    }
+}
